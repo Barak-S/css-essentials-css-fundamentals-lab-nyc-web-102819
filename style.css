@@ -11,7 +11,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-nav {
+nav a {
   padding: 10px;
   background-color: gray;
 }
